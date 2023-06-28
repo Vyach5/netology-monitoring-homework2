@@ -70,16 +70,16 @@ DBPassword=password
 # systemctl enable zabbix-agent
 ```
 
-`скриншот раздела Configuration > Hosts, где видно, что агенты подключены к серверу:`
+`Скриншот раздела Configuration > Hosts, где видно, что агенты подключены к серверу:`
 ![Скриншот 2](img/s2.1.png)
 
 `скриншот лога zabbix agent, где видно, что он работает с сервером:`
 ![Скриншот 3](img/s2.2.png)
 
-`скриншот раздела Monitoring > Latest data для обоих хостов, где видны поступающие от агентов данные (UbuntuVM):`
+`Скриншот раздела Monitoring > Latest data для обоих хостов, где видны поступающие от агентов данные (UbuntuVM):`
 ![Скриншот 4](img/s2.3.1.png)
 
-`скриншот раздела Monitoring > Latest data для обоих хостов, где видны поступающие от агентов данные (Zabbix server):`
+`Скриншот раздела Monitoring > Latest data для обоих хостов, где видны поступающие от агентов данные (Zabbix server):`
 ![Скриншот 5](img/s2.3.2.png)
 
 
